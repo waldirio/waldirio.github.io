@@ -1,4 +1,4 @@
-tags: [ technologies ]
+#tags: [ technologies ]
 image:
   feature: /images/back.jpg
   credit: testing
