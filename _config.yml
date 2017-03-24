@@ -7,14 +7,15 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Waldirio WebSite"
+title                    : "Waldirio' Blog"
 title_separator          : "-"
 name                     : "Waldirio M Pinheiro"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.waldirio.com.br"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+#teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/_images/back.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
