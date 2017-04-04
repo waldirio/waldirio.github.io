@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Waldirio M Pinheiro"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/wall.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be prepared !!!"
   location         : "Brazil / Rio de Janeiro"
   email            : "waldirio@gmail.com"
