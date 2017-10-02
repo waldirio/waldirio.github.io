@@ -2,6 +2,8 @@ Hello folks, good morning
 
 Today I'll show you how to disable Bamboo tablet touch, with this feature enable you will be able to control the cursos using your finger, this is interesting BUT when you need to any artistic work will be painful, then let's do it.
 
+{% include figure image_path="/assets/images/back.jpg" %}
+
 First, let's check your environment and what is the equipment that you have
 
 ```
