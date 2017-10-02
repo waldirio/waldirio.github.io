@@ -64,6 +64,43 @@ off
 [wpinheir@dvader ~]$
 ```
 
+NOTE: This command will be lost if you restart the computer, the to keep permanent I'll show 2 ways.
+
+1. Add command above your your local script just to be executed everytime your machine start
+
+or
+
+2. Check steps below
+  - We got our tablet model with command *xsetwacom --list devices*
+  - rpm -qa | grep wacom to see Wacom packages related
+    ```
+    [root@dvader ~]# rpm -qa | grep wacom
+    xorg-x11-drv-wacom-0.29.0-1.el7.x86_64
+    libwacom-0.12-1.el7.x86_64
+    libwacom-data-0.12-1.el7.noarch
+    [root@dvader ~]#
+    ```
+  - Checking on data package, let's looking for information about bamboo and tablets
+    ```
+    [root@dvader ~]# rpm -ql libwacom-data-0.12-1.el7.noarch | grep bam | grep tablet
+    /usr/share/libwacom/bamboo-16fg-4x5.tablet
+    /usr/share/libwacom/bamboo-2fg-4x5.tablet
+    /usr/share/libwacom/bamboo-2fg-6x8.tablet
+    /usr/share/libwacom/bamboo-2fg.tablet
+    /usr/share/libwacom/bamboo-craft.tablet
+    /usr/share/libwacom/bamboo-one.tablet
+    /usr/share/libwacom/bamboo-pen.tablet
+    [root@dvader ~]#
+    ```
+  - In our case the model is 16fg, then let's update the file */usr/share/libwacom/bamboo-16fg-4x5.tablet*
+  - Inside this file, change the parameter Touch from true to false, then restart the computer and the new configuration will be ok.
+    ```
+    Touch=true
+    to
+    Touch=false
+    ```
+
+
 So hope this trick help you in your environment, after do this feel free to use your tablet with Gimp or InkScape.
 
 Have a good one.
