@@ -16,11 +16,9 @@ Uma referência que eu acho **muito** válida e é muito utilizada em matemátic
 
 - No Brasil compramos um pote de sorvete de 2 litros **Napolitano KIBON** por aproximadamente 19.25 **unidades monetárias**. Fonte de valor direto do site [Pão de Açucar](https://www.paodeacucar.com/produto/241169/sorvete-napolitano-especial-kibon-pote-2-litros)
 
-{% include figure image_path="/assets/images/napolitano_kibon.jpg" alt="alt" caption="caption" %}
 
 - No Canada compramos um pote de sorvete de 4 litros **Napolitano Western Family** por aproximadamente 8.50 **unidades monetárias**. Fonte de valor direto do site [Save On Foods](https://shop.saveonfoods.com/store/17561199/?_ga=2.105542277.741186483.1528447601-1303796470.1528447601/#/product/sku/062639330378)
 
-{% include figure image_path="/assets/images/napolitano_wf.jpg" %}
 
 E isso irá ocorrer com N produtos, seja combustível, seja alimentos, etc.
 
