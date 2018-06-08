@@ -1,4 +1,4 @@
-Bom dia amigo
+Bom dia amigos
 
 Estou retornando ao blog com algumas novidades e como recebo algumas perguntas sobre o Canada **constantemente**, achei interessante colocar no blog, pois assim ficará a disposição dos amigos para consultas futuras.
 
@@ -27,5 +27,7 @@ Logo, se você está planejando viajar, sim, se preocupe com a conversão. Se vo
 Ps.: *Notem, menos impostos, não estou dizendo que não é cobrado impostos sobre serviços e mercadorias.*
 
 
+Espero que tenham gostado do Post, fiquem a vontade para enviar novas perguntas, bem como comentar sobre o assunto.
 
-
+Abraços
+Waldirio
