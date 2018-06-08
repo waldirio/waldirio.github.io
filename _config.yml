@@ -81,14 +81,14 @@ author:
   name             : "Waldirio M Pinheiro"
   avatar           : "/images/wall.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be prepared !!!"
-  location         : "Brazil / Rio de Janeiro"
+  location         : "Canada / Burnaby"
   email            : "waldirio@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/waldirio.pinheiro"
   foursquare       :
   github           : "waldirio"
   google_plus      :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/_ZoC"
   vine             :
   weibo            :
   xing             :
