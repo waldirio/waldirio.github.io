@@ -15,9 +15,9 @@ Below the Table of Content
 - The Code - Second Version *OO*
 - Quality Assurance Application / Install pylint and flake8
 - Execute pylint on the code
--- after fix the code
+  -- after fix the code
 - Execute flake8 on the code
--- after fix the code
+  -- after fix the code
 - Code after all advices / changes
 - Configure the dir to be able to import *module*
 - Github
