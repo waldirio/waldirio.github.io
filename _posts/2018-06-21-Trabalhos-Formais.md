@@ -8,6 +8,7 @@ Boa Leitura
 
 # Conclusão do curso de Ciência da Computação
 DESENVOLVIMENTO DE UM SISTEMA DISTRIBUÍDO PARA DETECÇÃO DE INTRUSÃO BASEADO EM SOFTWARE LIVRE : NIDS HYDRA
+---
 *Com o advento da Internet, as redes de computadores tornaram-se uma grande malha
 que agrega milhares de máquinas e empresas interconectadas, realizando desde simples troca
 de e-mail a transações econômicas, o que é um chamariz considerável a intrusos. Pensando
@@ -20,6 +21,7 @@ partir de certos padrões baseados em regras de assinaturas. Foram utilizados So
 como MySQL, PHP, Web Server Apache. Como scanners de vulnerabilidade o Nessus e o
 Nmap e como base de desenvolvimento a linguagem de programação C, incluindo bibliotecas
 de MySQL, PCAP, dentre outras.*
+---
 Download: [http://www.waldirio.com.br/assets/files/cs_graduation_waldirio.pdf](http://www.waldirio.com.br/assets/files/cs_graduation_waldirio.pdf)
 
 
