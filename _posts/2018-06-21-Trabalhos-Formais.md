@@ -1,6 +1,6 @@
 Bom dia amigos
 
-Gostaria de compartilhar com vocês alguns trabalhos que escrevi ao longo de minha vida acadêmica.
+Gostaria de compartilhar com vocês alguns trabalhos que escrevi ao longo de minha vida acadêmica **Trabalhos Formais**.
 
 Basicamente uma graduação e duas pós, conforme descritos abaixo. *Espero ampliar essa listagem de trabalhos em breve .....*
 
