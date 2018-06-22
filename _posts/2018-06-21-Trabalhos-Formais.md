@@ -2,11 +2,11 @@ Bom dia amigos
 
 Gostaria de compartilhar com vocês alguns trabalhos que escrevi ao longo de minha vida acadêmica **Trabalhos Formais**.
 
-Basicamente uma graduação e duas pós, conforme descritos abaixo. *Espero ampliar essa listagem de trabalhos em breve .....*
+Basicamente uma graduação e duas pós, conforme descritos abaixo. *Espero ampliar essa listagem de publicações em breve .....*
 
 Boa Leitura
 
-# Trabalho de Conclusão do curso de Ciência da Computação
+# Conclusão do curso de Ciência da Computação
 DESENVOLVIMENTO DE UM SISTEMA DISTRIBUÍDO PARA DETECÇÃO DE INTRUSÃO BASEADO EM SOFTWARE LIVRE : NIDS HYDRA
 ```
 Com o advento da Internet, as redes de computadores tornaram-se uma grande malha
@@ -26,7 +26,7 @@ Download: [http://www.waldirio.com.br/assets/files/cs_graduation_waldirio.pdf](h
 
 
 
-# Trabalho de Pós Graduação
+# Pós Graduação
 O USO DE SOFTWARE LIVRE NAS EMPRESAS DE OIL&GAS, COM FOCO EM GEOLOGIA E GEOFÍSICA
 ```
 O objetivo desta obra é analisar a necessidade, disponibilidade e aceitação do uso
@@ -53,7 +53,7 @@ petróleo como Petrobras, Halliburton e Repsol Sinopec Brasil.
 Download: [http://www.waldirio.com.br/assets/files/post_graduation_oil_gas.pdf](http://www.waldirio.com.br/assets/files/post_graduation_oil_gas.pdf)
 
 
-# Trabalho de Pós Graduação
+# Pós Graduação
 Animação 3D de A a Z
 ```
 Animação 3D, esse nome é surpreendente e tocante, mas o assunto é muito
