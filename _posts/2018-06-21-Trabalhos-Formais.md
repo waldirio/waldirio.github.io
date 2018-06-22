@@ -22,6 +22,9 @@ como MySQL, PHP, Web Server Apache. Como scanners de vulnerabilidade o Nessus e 
 Nmap e como base de desenvolvimento a linguagem de programação C, incluindo bibliotecas
 de MySQL, PCAP, dentre outras.
 ```
+Download: [http://www.waldirio.com.br/assets/files/cs_graduation_waldirio.pdf](http://www.waldirio.com.br/assets/files/cs_graduation_waldirio.pdf)
+
+
 
 - Trabalho de Pós Graduação
 O USO DE SOFTWARE LIVRE NAS EMPRESAS DE OIL&GAS, COM FOCO EM GEOLOGIA E GEOFÍSICA
@@ -47,6 +50,8 @@ dessas áreas em sua totalidade já utilizaram e/ou utilizam o software livre, n
 havendo restrições para uso do mesmo e sim, profissionais de grandes empresas de
 petróleo como Petrobras, Halliburton e Repsol Sinopec Brasil.
 ```
+Download: [http://www.waldirio.com.br/assets/files/post_graduation_oil_gas.pdf](http://www.waldirio.com.br/assets/files/post_graduation_oil_gas.pdf)
+
 
 - Trabalho de Pós Graduação
 Animação 3D de A a Z
@@ -63,6 +68,8 @@ macro do processo, ficando assim muito mais fácil e didático o entendimento.
 -- Terceiro bloco, ou bloco de “Produção 3D / Animação de Personagens”
 -- Quarto bloco, ou bloco de “Pós-Produção”
 ```
+Download: [http://www.waldirio.com.br/assets/files/post_graduation_animation.pdf](http://www.waldirio.com.br/assets/files/post_graduation_animation.pdf)
+
 
 
 Abraços
