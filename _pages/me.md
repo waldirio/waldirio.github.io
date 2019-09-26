@@ -1,6 +1,6 @@
 ---
 title: "About me ...."
-permalink: /book/
+permalink: /me/
 some additional info here .....
 #layout: posts
 author_profile: true
