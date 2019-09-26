@@ -3,9 +3,9 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Me"
-    url: http://www.waldirio.com.br/about/
+    url: http://www.waldirio.com.br/_pages/book.md
   - title: "Old Presentations"
-    url: http://www.waldirio.com.br/presentations/
+    url: http://www.waldirio.com.br/_pages/contact.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
