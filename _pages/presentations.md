@@ -4,4 +4,12 @@ permalink: /presentations/
 layout: category
 author_profile: true
 ---
-some additional info here .....
+Below some presentations organized by date (let's try to remember)
+
+UENF `Universidade Estadual do Norte Fluminense`
+SpaceWalk Book launch `Livraria Cultura`
+IFF `Instituto Federal Fluminense`
+UVA `Universidade Veiga de Almeida`
+InteraTec `Online Interview`
+Castalio Podcast `Online Interview`
+Meetup `Campos Technology`
