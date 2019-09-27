@@ -9,7 +9,7 @@ Below some presentations that I'm able to share (public) organized by date "mont
 
 - BR - FABERJ - Faculdade Batista do Estado do Rio de Janeiro
   - 03/29/2014
-  - Description here
+  - Tendências Tecnológicas
     - [Download here](/assets/files/FABERJ_29.03.2014.pdf){:target="_blank"}
 
 <br/>
