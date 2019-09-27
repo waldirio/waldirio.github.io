@@ -48,7 +48,7 @@ Below some presentations organized by date "month/date/year" (let's try to remem
   - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
     - [Link here](https://www.youtube.com/watch?v=U8V6_7ZotwI)
 
-
+\
 
 - InteraTech/Congresso Online de TI - Online Interview
   - 10/15/2018
