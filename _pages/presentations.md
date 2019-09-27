@@ -79,4 +79,4 @@ Below some presentations that I'm able to share (public material) organized by d
 - BR - IBMR - Centro Universitário IBMR
   - 09/27/2019 
   - Technology, meu sonho ...
-    - [Download here](#){:target="_blank"}
+    - [Download here](/assets/files/IBMR_09.27.2019.pdf){:target="_blank"}
