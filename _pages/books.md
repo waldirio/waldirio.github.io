@@ -9,6 +9,6 @@ I'm happy to share some `material` available that will be probably useful, at le
 <script>
 <a href="#">here</a>
 </script>
-(Spacewalk: O Projeto do Red Hat Satellite)[http://www.brasport.com.br/informatica-e-tecnologia/linux/spacewalk-o-projeto-do-red-hat-satellite/]
+[Spacewalk: O Projeto do Red Hat Satellite](http://www.brasport.com.br/informatica-e-tecnologia/linux/spacewalk-o-projeto-do-red-hat-satellite/)
 
-(Spacewalk: The Red Hat Satellite Project: Your open source solution for Linux systems management "Fedora, CentOS, SLE and Debia")[https://www.amazon.com/Spacewalk-Satellite-Project-solution-management-ebook/dp/B071DDQ4W2]
+[Spacewalk: The Red Hat Satellite Project: Your open source solution for Linux systems management "Fedora, CentOS, SLE and Debia"](https://www.amazon.com/Spacewalk-Satellite-Project-solution-management-ebook/dp/B071DDQ4W2)
