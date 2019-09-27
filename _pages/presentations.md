@@ -40,6 +40,7 @@ Below some presentations organized by date "month/date/year" (let's try to remem
   - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
     - [Link here](https://vimeo.com/173124755)
 
+<br/>
 
 - UVA - Universidade Veiga de Almeida
   - 11/11/2016
