@@ -1,7 +1,7 @@
 ---
 title: "About me ...."
 permalink: /about/
-#layout: posts
+layout: none
 author_profile: true
 ---
 some additional info here .....
