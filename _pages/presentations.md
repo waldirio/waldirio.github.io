@@ -7,28 +7,28 @@ author_profile: true
 Below some presentations that I'm able to share (public) organized by date "month/date/year" (let's try to remember)
 
 
-- FABERJ - Faculdade Batista do Estado do Rio de Janeiro
+- BR - FABERJ - Faculdade Batista do Estado do Rio de Janeiro
   - 03/15/2014
   - Description here
     - [Download here](#)
 
 <br/>
 
-- Livraria Cultura - SpaceWalk Book launch
+- BR - Livraria Cultura - SpaceWalk Book launch
   - 08/20/2015
   - Book launch
     - [Download here](#)
 
 <br/>
 
-- IFF - Instituto Federal Fluminense
+- BR - IFF - Instituto Federal Fluminense
   - 10/21/2015
   - Description here
     - [Download here](#)
 
 <br/>
 
-- UENF - Universidade Estadual do Norte Fluminense
+- BR - UENF - Universidade Estadual do Norte Fluminense
   - 11/05/2015
   - SCTI e CONFCOMP
     - [Download here](/assets/files/SCTI_11.05.2015.pdf)
@@ -42,7 +42,7 @@ Below some presentations that I'm able to share (public) organized by date "mont
 
 <br/>
 
-- UVA - Universidade Veiga de Almeida
+- BR - UVA - Universidade Veiga de Almeida
   - 11/11/2016
   - Apresentação Red Hat / OpenSource
     - [Download here](#)
@@ -63,7 +63,7 @@ Below some presentations that I'm able to share (public) organized by date "mont
 
 <br/>
 
-- Meetup - Campos Technology
+- BR - Meetup - Campos Technology
   - 08/01/2019 
   - #1 - OpenSource e Muitas Dicas HighTech para Você!
     - [Apresentação](/assets/files/meetup_01_Apresentacao.pdf)
