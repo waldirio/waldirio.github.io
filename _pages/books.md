@@ -1,6 +1,6 @@
 ---
-title: "Presentations during my timelife :)"
-permalink: /presentation/
+title: "Books, E-books and Some Articles"
+permalink: /books/
 layout: category
 author_profile: true
 ---

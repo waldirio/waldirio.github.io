@@ -2,8 +2,10 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Books"
+    url: http://www.waldirio.com.br/books/
   - title: "Presentations"
-    url: http://www.waldirio.com.br/presentation/
+    url: http://www.waldirio.com.br/presentations/
   - title: "About"
     url: http://www.waldirio.com.br/about/
   # - title: "About"
