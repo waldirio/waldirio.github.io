@@ -76,7 +76,7 @@ Below some presentations that I'm able to share (public material) organized by d
 
 <br/>
 
-- BR - IBMR - Campos Technology
+- BR - IBMR - Centro Universitário IBMR
   - 09/27/2019 
   - Technology, meu sonho ...
     - [Download here](#){:target="_blank"}
