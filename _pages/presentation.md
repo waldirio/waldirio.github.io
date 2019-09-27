@@ -1,6 +1,6 @@
 ---
 title: "About me ...."
-permalink: /about/
+permalink: /presentation/
 layout: category
 author_profile: true
 ---
