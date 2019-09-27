@@ -12,24 +12,28 @@ Below some presentations organized by date "month/date/year" (let's try to remem
   - Description here
     - [Download here](#)
 
+<br/>
 
 - Livraria Cultura - SpaceWalk Book launch
   - 08/20/2015
   - Book launch
     - [Download here](#)
 
+<br/>
 
 - IFF - Instituto Federal Fluminense
   - 10/21/2015
   - Description here
     - [Download here](#)
 
+<br/>
 
 - UENF - Universidade Estadual do Norte Fluminense
   - 11/05/2015
   - SCTI e CONFCOMP
     - [Download here](/assets/files/SCTI_11.05.2015.pdf)
 
+<br/>
 
 - Vimeo Video - Falando sobre o livro
   - 07/01/2016
@@ -49,15 +53,15 @@ Below some presentations organized by date "month/date/year" (let's try to remem
   - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
     - [Link here](https://www.youtube.com/watch?v=U8V6_7ZotwI)
 
-\
+<br/>
 
 - InteraTech/Congresso Online de TI - Online Interview
   - 10/15/2018
   - Red Hat e o Mundo OpenSource
     - [Link here](https://www.youtube.com/watch?v=59F9iYH0KBQ)
 
-\
-\
+<br/>
+
 - Meetup - Campos Technology
   - 08/01/2019 
   - #1 - OpenSource e Muitas Dicas HighTech para Você!
