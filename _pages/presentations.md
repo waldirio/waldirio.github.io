@@ -47,9 +47,9 @@ Below some presentations organized by date "month/date/year" (let's try to remem
   - 10/15/2018
   - Red Hat e o Mundo OpenSource
     - [Link here](https://www.youtube.com/watch?v=59F9iYH0KBQ)
-  
-  
-
+    
+    
+    
 - Meetup - Campos Technology
   - 08/01/2019 
   - #1 - OpenSource e Muitas Dicas HighTech para Você!
