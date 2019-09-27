@@ -4,7 +4,7 @@ permalink: /presentations/
 layout: category
 author_profile: true
 ---
-Below some presentations that I'm able to share (public) organized by date "month/date/year" (let's try to remember)
+Below some presentations that I'm able to share (public) organized by date "month/day/year" (let's try to remember)
 
 
 - BR - FABERJ - Faculdade Batista do Estado do Rio de Janeiro
