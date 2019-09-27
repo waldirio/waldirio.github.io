@@ -7,7 +7,7 @@ author_profile: true
 Below some presentations organized by date (let's try to remember)
 
 - UENF - Universidade Estadual do Norte Fluminense
- - abcd
+  - abc
 
 - Livraria Cultura - SpaceWalk Book launch
 
