@@ -42,6 +42,7 @@ Below some presentations organized by date "month/date/year" (let's try to remem
   - Apresentação Red Hat / OpenSource
     - [Download here](#)
 
+<br/>
 
 - Castalio Podcast - Online Interview
   - 08/02/2017
