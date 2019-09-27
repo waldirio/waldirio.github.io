@@ -43,5 +43,11 @@ Below some presentations organized by date "month/date/year" (let's try to remem
 
 - Meetup - Campos Technology
   - 08/01/2019 (#1 - OpenSource e Muitas Dicas HighTech para Você!)
-  - [Download here](#)
+  - [Apresentação](/assets/files/meetup_01_Apresentacao.pdf)
+  - [Red Hat Portfólio](/assets/files/meetup_01_Red_Hat_Corporate_Presentation_PT-BR.pdf)
+  - [Como Funciona o OpenSource?](/assets/files/meetup_01_Como_funciona_o_OpenSource.pdf)
+  - [Qual o valor de uma certificação?](/assets/files/meetup_01_Qual_o_valor_de_uma_certificacao_para_o_mercado_de_trabalho.pdf)
+  - [Como é trabalhar de Home Office?](/assets/files/meetup_01_Como_e_trabalhar_de_home_office.pdf)
+  - [Trabalho Internacional é possível para qualquer um?](/assets/files/meetup_01_Trabalho_internacional_e_possivel_para_qualquer_um.pdf)
+  - [Qual a melhor linguagem na atualidade?](/assets/files/meetup_01_Qual_a_melhor_linguagem_na_atualidade.pdf)
 
