@@ -74,3 +74,9 @@ Below some presentations that I'm able to share (public material) organized by d
     - [Trabalho Internacional é possível para qualquer um?](/assets/files/meetup_01_Trabalho_internacional_e_possivel_para_qualquer_um.pdf){:target="_blank"}
     - [Qual a melhor linguagem na atualidade?](/assets/files/meetup_01_Qual_a_melhor_linguagem_na_atualidade.pdf){:target="_blank"}
 
+<br/>
+
+- BR - IBMR - Campos Technology
+  - 09/27/2019 
+  - Technology, meu sonho ...
+    - [Download here](#){:target="_blank"}
