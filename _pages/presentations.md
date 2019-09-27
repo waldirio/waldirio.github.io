@@ -50,7 +50,7 @@ Below some presentations organized by date "month/date/year" (let's try to remem
 &nbsp; 
 &nbsp; 
 &nbsp; 
-- Meetup - Campos Technology
+- MMeetup - Campos Technology
   - 08/01/2019 
   - #1 - OpenSource e Muitas Dicas HighTech para Você!
     - [Apresentação](/assets/files/meetup_01_Apresentacao.pdf)
