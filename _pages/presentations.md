@@ -31,6 +31,12 @@ Below some presentations organized by date "month/date/year" (let's try to remem
     - [Download here](/assets/files/SCTI_11.05.2015.pdf)
 
 
+- Vimeo Video - Falando sobre o livro
+  - 07/01/2016
+  - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
+    - [Link here](https://vimeo.com/173124755)
+
+
 - UVA - Universidade Veiga de Almeida
   - 11/11/2016
   - Apresentação Red Hat / OpenSource
@@ -43,13 +49,13 @@ Below some presentations organized by date "month/date/year" (let's try to remem
     - [Link here](https://www.youtube.com/watch?v=U8V6_7ZotwI)
 
 
+
 - InteraTech/Congresso Online de TI - Online Interview
   - 10/15/2018
   - Red Hat e o Mundo OpenSource
     - [Link here](https://www.youtube.com/watch?v=59F9iYH0KBQ)
-    
-    
-    
+
+
 - Meetup - Campos Technology
   - 08/01/2019 
   - #1 - OpenSource e Muitas Dicas HighTech para Você!
