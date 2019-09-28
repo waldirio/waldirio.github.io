@@ -7,59 +7,10 @@ author_profile: true
 Below some presentations that I'm able to share (public material) organized by date "month/day/year" (let's try to remember)
 
 
-- BR - FABERJ - Faculdade Batista do Estado do Rio de Janeiro
-  - 03/29/2014
-  - Tendências Tecnológicas
-    - [Download here](/assets/files/FABERJ_29.03.2014.pdf){:target="_blank"}
-
-<br/>
-
-- BR - Livraria Cultura - SpaceWalk Book launch
-  - 08/20/2015
-  - Book launch
-    - [Download here](#){:target="_blank"}
-
-<br/>
-
-- BR - IFF - Instituto Federal Fluminense
-  - 10/21/2015
-  - Description here
-    - [Download here](/assets/files/IFF-CITI_10.21.2015.pdf){:target="_blank"}
-
-<br/>
-
-- BR - UENF - Universidade Estadual do Norte Fluminense
-  - 11/05/2015
-  - SCTI e CONFCOMP
-    - [Download here](/assets/files/SCTI_11.05.2015.pdf){:target="_blank"}
-
-<br/>
-
-- Vimeo Video - Falando sobre o livro
-  - 07/01/2016
-  - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
-    - [Link here](https://vimeo.com/173124755){:target="_blank"}
-
-<br/>
-
-- BR - UVA - Universidade Veiga de Almeida
-  - 11/11/2016
-  - Apresentação Red Hat / OpenSource
-    - [Download here](/assets/files/UVA_11.11.2016.pdf){:target="_blank"}
-
-<br/>
-
-- Castalio Podcast - Online Interview
-  - 08/02/2017
-  - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
-    - [Link here](https://www.youtube.com/watch?v=U8V6_7ZotwI){:target="_blank"}
-
-<br/>
-
-- InteraTech/Congresso Online de TI - Online Interview
-  - 10/15/2018
-  - Red Hat e o Mundo OpenSource
-    - [Link here](https://www.youtube.com/watch?v=59F9iYH0KBQ){:target="_blank"}
+- BR - IBMR - Centro Universitário IBMR
+  - 09/27/2019 
+  - Technology, meu sonho ...
+    - [Download here](/assets/files/IBMR_09.27.2019.pdf){:target="_blank"}
 
 <br/>
 
@@ -76,7 +27,56 @@ Below some presentations that I'm able to share (public material) organized by d
 
 <br/>
 
-- BR - IBMR - Centro Universitário IBMR
-  - 09/27/2019 
-  - Technology, meu sonho ...
-    - [Download here](/assets/files/IBMR_09.27.2019.pdf){:target="_blank"}
+- InteraTech/Congresso Online de TI - Online Interview
+  - 10/15/2018
+  - Red Hat e o Mundo OpenSource
+    - [Link here](https://www.youtube.com/watch?v=59F9iYH0KBQ){:target="_blank"}
+
+<br/>
+
+- Castalio Podcast - Online Interview
+  - 08/02/2017
+  - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
+    - [Link here](https://www.youtube.com/watch?v=U8V6_7ZotwI){:target="_blank"}
+
+<br/>
+
+- BR - UVA - Universidade Veiga de Almeida
+  - 11/11/2016
+  - Apresentação Red Hat / OpenSource
+    - [Download here](/assets/files/UVA_11.11.2016.pdf){:target="_blank"}
+
+<br/>
+
+- Vimeo Video - Falando sobre o livro
+  - 07/01/2016
+  - Conhecer mais sobre Red Hat, Spacewalk, Linux Management, OpenSource e outras coisas bem interessantes!
+    - [Link here](https://vimeo.com/173124755){:target="_blank"}
+
+<br/>
+
+- BR - UENF - Universidade Estadual do Norte Fluminense
+  - 11/05/2015
+  - SCTI e CONFCOMP
+    - [Download here](/assets/files/SCTI_11.05.2015.pdf){:target="_blank"}
+
+<br/>
+
+- BR - IFF - Instituto Federal Fluminense
+  - 10/21/2015
+  - Description here
+    - [Download here](/assets/files/IFF-CITI_10.21.2015.pdf){:target="_blank"}
+
+<br/>
+
+- BR - Livraria Cultura - SpaceWalk Book launch
+  - 08/20/2015
+  - Book launch
+    - [Download here](#){:target="_blank"}
+
+<br/>
+
+- BR - FABERJ - Faculdade Batista do Estado do Rio de Janeiro
+  - 03/29/2014
+  - Tendências Tecnológicas
+    - [Download here](/assets/files/FABERJ_29.03.2014.pdf){:target="_blank"}
