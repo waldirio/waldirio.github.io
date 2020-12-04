@@ -25,6 +25,14 @@ Below some presentations that I'm able to share (public material) organized by d
 
 <br/>
 
+- BR - Rapidinha com @edgarberlinck (Podcast)
+  - 11/12/2020
+  - Open source & Hacktober fest
+    - [Link here](https://anchor.fm/curtinhasdoed/episodes/Open-source--Hacktober-fest-emdakc){:target="_blank"}
+
+
+<br/>
+
 - BR - IBMR - Centro Universitário IBMR
   - 09/27/2019 
   - Technology, meu sonho ...
