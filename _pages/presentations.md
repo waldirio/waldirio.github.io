@@ -6,6 +6,24 @@ author_profile: true
 ---
 Below some presentations that I'm able to share (public material) organized by date "month/day/year" (let's try to remember)
 
+- BR - IFF Bom Jesus - Red Hat e o Mundo OpenSource
+  - 12/02/2020
+  - Red Hat e o Mundo OpenSource
+    - [Download here](/assets/files/12.02.2020-BR.IFF.Bom_Jesus-Red_Hat_e_o_Mundo_OpenSource.pdf){:target="_blank"}
+  - Additional links
+    - Link para verificar as vagas abertas na Red Hat
+	    - [https://jobs.redhat.com](https://jobs.redhat.com){:target="_blank"}
+
+    - Link da documentação dos Produtos (comece por aqui !!!)
+      - [https://docs.redhat.com/](){:target="_blank"}
+
+    - Red Hat and IoT
+      - [https://www.redhat.com/en/topics/internet-of-things](){:target="_blank"}
+
+    - Easy Cooking with You
+      - [https://bit.ly/2BVNm1B](){:target="_blank"}
+
+<br/>
 
 - BR - IBMR - Centro Universitário IBMR
   - 09/27/2019 
