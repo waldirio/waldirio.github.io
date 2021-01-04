@@ -57,6 +57,7 @@ Below some presentations that I'm able to share (public material) organized by d
   - 10/15/2018
   - Red Hat e o Mundo OpenSource
     - [Link here](https://www.youtube.com/watch?v=59F9iYH0KBQ){:target="_blank"}
+    - [Apresentação](/assets/files/Apresentacao_Congresso_de_TI-Oct_2018.pdf){:target="_blank"}
 
 <br/>
 
