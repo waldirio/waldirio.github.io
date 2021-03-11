@@ -6,10 +6,11 @@ author_profile: true
 ---
 Below some presentations that I'm able to share (public material) organized by date "month/day/year" (let's try to remember)
 
-- BR - IFF Quissama - #1 Quanta Técnica | Técnico, um primeiro passo? (YouTube Live)
+- BR - IFF Quissama - #1 Quanta Técnica - Técnico, um primeiro passo? (YouTube Live)
   - 05/09/2021
   - Técnico, um primeiro passo?
     - [Link Here](https://www.youtube.com/watch?v=iuwowfLJjLE){:target="_blank"}
+
 
 - BR - IFF Bom Jesus - Red Hat e o Mundo OpenSource
   - 12/02/2020
