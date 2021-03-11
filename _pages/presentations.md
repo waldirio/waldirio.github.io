@@ -11,6 +11,7 @@ Below some presentations that I'm able to share (public material) organized by d
   - Técnico, um primeiro passo?
     - [Link Here](https://www.youtube.com/watch?v=iuwowfLJjLE){:target="_blank"}
 
+<br/>
 
 - BR - IFF Bom Jesus - Red Hat e o Mundo OpenSource
   - 12/02/2020
