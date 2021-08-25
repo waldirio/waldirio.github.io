@@ -6,6 +6,15 @@ author_profile: true
 ---
 Below some presentations that I'm able to share (public material) organized by date "month/day/year" (let's try to remember)
 
+
+- BR - IFF Campos - Como o Open Source pode mudar sua vida? (YouTube Live)
+  - 18/08/2021
+  - Como o Open Source pode mudar sua vida?
+    - [Link Here](https://www.youtube.com/watch?v=VlpyXoIWNiY){:target="_blank"}
+  - Apresentação em PDF
+    - [Download here](/assets/files/18.08.2021-BR.IFF.como.o.opensource.pode.mudar.sua.vida.pdf){:target="_blank"}
+
+
 - BR - IFF Quissama - #1 Quanta Técnica - Técnico, um primeiro passo? (YouTube Live)
   - 05/09/2021
   - Técnico, um primeiro passo?
