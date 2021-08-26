@@ -15,8 +15,6 @@ Below some presentations that I'm able to share (public material) organized by d
     - [Download here](/assets/files/18.08.2021-BR.IFF.como.o.opensource.pode.mudar.sua.vida.pdf){:target="_blank"}
 
 <br/>
---
-ioi
 
 - BR - IFF Quissama - #1 Quanta Técnica - Técnico, um primeiro passo? (YouTube Live)
   - 05/09/2021
