@@ -82,7 +82,7 @@ author:
   name             : "Waldirio M Pinheiro"
   avatar           : "/images/wall.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be prepared !!!"
-  location         : "Canada / Burnaby"
+  location         : "Canada / New Westminster"
   email            : "waldirio@gmail.com"
   uri              :
   bitbucket        :
@@ -107,6 +107,7 @@ author:
   weibo            :
   xing             :
 #  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://youtube.com/@waldirio"
   youtube          : "https://vimeo.com/user53719586"
 
 
