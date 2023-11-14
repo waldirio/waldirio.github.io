@@ -7,7 +7,7 @@ author_profile: true
 I'm happy to share some material that will be probably useful to you SysAdmin or Tech falling in love <3++
 
 - Brazilian Portuguese
-  - [Spacewalk: O Projeto do Red Hat Satellite](http://www.brasport.com.br/informatica-e-tecnologia/linux/spacewalk-o-projeto-do-red-hat-satellite/){:target="_blank"}
+  - [Spacewalk: O Projeto do Red Hat Satellite](https://editorabrasport.com.br/spacewalk-red-hat-satellite){:target="_blank"}
 
 <br/>
 
