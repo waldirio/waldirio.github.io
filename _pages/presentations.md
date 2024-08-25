@@ -6,6 +6,14 @@ author_profile: true
 ---
 Below some presentations that I'm able to share (public material) organized by date "month/day/year" (let's try to remember)
 
+<br/>
+
+- CA - VanLUG - New Skills with Red Hat Upstream Projects
+  - 08/24/2024
+  - PDF Presentation
+    - [Download here](/assets/files/08.24.2024-New_Skills_with_Red_Hat_Upstream_Projects.pdf){:target="_blank"}
+
+<br/>
 
 - BR - IFF Campos - Como o Open Source pode mudar sua vida? (YouTube Live)
   - 18/08/2021
