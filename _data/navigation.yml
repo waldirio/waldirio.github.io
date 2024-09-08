@@ -2,6 +2,9 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  - title: "Formal Papers"
+    url: http://www.waldirio.com.br/papers/
   - title: "Books"
     url: http://www.waldirio.com.br/books/
   - title: "Presentations"
