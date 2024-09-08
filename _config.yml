@@ -89,12 +89,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "waldirio.pinheiro"
+  facebook         :
   foursquare       :
   github           : "waldirio"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "waldirio"
   lastfm           :
   linkedin         : "waldirio"
   pinterest        :
@@ -102,13 +102,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "_ZoC"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-#  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   youtube          : "https://youtube.com/@waldirio"
-#  youtube          : "https://vimeo.com/user53719586"
 
 
 # Reading Files
