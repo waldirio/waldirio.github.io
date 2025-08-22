@@ -8,6 +8,13 @@ Below some presentations that I'm able to share (public material) organized by d
 
 <br/>
 
+- BR - ConFLOSS - Conferência de Free/Libre Open Source Software
+  - 08/22/2025
+  - PDF Presentation
+    - [Download here](/assets/files/08.22.2025-ConFLOSS.pdf){:target="_blank"}
+
+<br/>
+
 - CA - VanLUG - New Skills with Red Hat Upstream Projects
   - 08/24/2024
   - PDF Presentation
